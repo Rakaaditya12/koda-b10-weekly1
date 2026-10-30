@@ -1,0 +1,29 @@
+{
+  "name": "koda-b10-weekly1",
+  "version": "1.0.0",
+  "description": "Aplikasi pemesanan menu mie ayam sidomampir bogor menggunakan Nodejs readline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint *.js *.mjs *.cjs",
+    "lint:fix": "eslint *.js *.mjs *.cjs --fix"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Rakaaditya12/koda-b10-weekly1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakaaditya12/koda-b10-weely1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0"
+  }
+}
